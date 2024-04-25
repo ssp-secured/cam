@@ -1,0 +1,46 @@
+
+.one img, .two img,  .four img, .six img,  .seven img,.eight img,.nine img,.ten img,.eleven img,.thirteen img {
+    max-height: 420px;
+    object-fit: cover;
+
+}
+.main-content-portfolio{
+    padding:10px 3%;
+    text-align: center;
+    /* margin-top: 50px; */
+    
+
+}
+#push{
+    height:150px;
+}
+hr{
+    width: 80px; 
+    margin-bottom: 30px;
+    border-top: 10px solid #47b0e2;
+    border-bottom: none;
+    border-radius: 10px;
+    margin-left:40%;
+}
+.lightgray{
+    color:#343434;
+}
+.bigger{
+    font-size: 3em;
+}
+
+
+.box{
+    overflow:hidden;
+    float:left;
+    width:420px;
+    height: 420px;
+    margin:30px 20px;
+    background: #467654;
+}
+.three img, .five img, .twelve img,.fourteen img,.fifteen img{
+    max-width: 420px ;
+    object-fit: cover;
+
+
+}
